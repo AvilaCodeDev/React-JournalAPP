@@ -1,0 +1,10 @@
+@import './base/settings';
+@import './base/base';
+
+//components
+@import './components/auth.scss';
+@import './components/buttons';
+@import 'components/journal';
+@import 'components/liks';
+@import 'components/nothing';
+@import 'components/notes';
